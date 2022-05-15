@@ -1,0 +1,50 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "veritabani.txt",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMeUww7TvfsUEbnLFehcrQ9",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/JeylaHuseynzadej/hu-bby162-2022/blob/main/veritabani.txt\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "RsBbpk-OHQt2"
+      },
+      "outputs": [],
+      "source": [
+        "Tutunamayanlar, Oğuz Atay, İletişim Yayınevi, 2020, 9789754700114\n",
+        "Saatleri Ayarlama Enstitüsü, Ahmet Hamdi Tanpınar, Dergah Yayınları, 2015, 9789759955762\n",
+        "Memleketimden İnsan Manzaraları, Nâzım Hikmet Ran, Yapı Kredi Yayınları, 2021, 9789750803772\n",
+        "Kürk Mantolu Madonna, Sabahattin Ali, Yapı Kredi Yayınları, 2020, 9789753638029\n",
+        "Aşk-ı Memnu, Halit Ziya Uşaklıgil, Can Yayınları, 2020, 9789750730184\n",
+        "Çalıkuşu, Reşat Nuri Güntekin, İnkılap Yayınevi, 2017, 9789751027689\n",
+        "Mai ve Siyah, Halit Ziya Uşaklıgil, Kızıl Panda Yayınevi, 2016, 9786050621570\n",
+        "Benim Adım Kırmızı, Orhan Pamuk, Yapı Kredi Yayınları, 2017, 9789750825927\n",
+        "Sinekli Bakkal, Halide Edip Adıvar, Can Yayınları, 2014, 9789750721663"
+      ]
+    }
+  ]
+}
